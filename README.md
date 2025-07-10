@@ -28,7 +28,7 @@
 
 
 ## 😄 Pronoms : elle/lui  
-## ⚡ Fun fact : J’ai deux grands chats noirs et blanche qui m’accompagnent pendant mes sessions de code nocturnes 😺✨
+## ⚡ Fun fact : J’ai deux grands chats noir et blanche qui m’accompagnent pendant mes sessions de code nocturnes 😺✨
 
 ---
 
