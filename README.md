@@ -1,38 +1,33 @@
-# 👋 Salut, je suis @chamai1
+# Chaima Menouar
 
-🎓 Étudiant passionné en **Intelligence Artificielle** et **Transformation Digitale**
+### AI & Digital Transformation Engineering Student
 
----
+I am a final-year engineering student focused on Artificial Intelligence, Machine Learning, Natural Language Processing, and Cloud Computing. I enjoy transforming technical ideas into practical and scalable digital solutions.
 
-## 👀 Centres d’intérêt
-- Intelligence Artificielle (IA)
-- Apprentissage automatique (Machine Learning)
-- Développement Web & Mobile
-- Cybersécurité & Systèmes intelligents
-- Projets open source et solutions digitales pour le développement durable
+## About Me
 
-## 🌱 Ce que j’apprends actuellement
-- Python avancé et bibliothèques IA : Scikit-learn, TensorFlow, PyTorch
-- Développement web avec Django, Flask & Laravel
-- Optimisation énergétique et traitement de données géospatiales (PostgreSQL/PostGIS)
-- Outils DevOps de base et GitHub Actions
+* Final-year engineering student in AI and Digital Transformation
+* Interested in Machine Learning, NLP, and applied AI
+* Developing cloud computing skills with AWS
+* Based in Casablanca, Morocco
+* Open to internship opportunities and technical collaborations
 
-## 🤝 Je cherche à collaborer sur
-- Projets d’IA appliquée à l’éducation, l’énergie ou la santé
-- Applications intelligentes utilisant le Machine Learning
-- Solutions web sécurisées dans un contexte de transformation digitale
+## Technologies I Work With
 
-## 📫 Me contacter :
-- 📧 chaimaamnouar1234@gmail.com *(ou ton mail universitaire si tu préfères)*
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ton-profi](https://www.linkedin.com/in/chaima-menouar-93554524a/)l) 
+* **Programming:** Python, Java, JavaScript, SQL
+* **AI & Data:** Scikit-learn, TensorFlow, PyTorch, Pandas, NLP
+* **Web Development:** Django, Flask, Laravel
+* **Databases:** PostgreSQL, MySQL, PostGIS
+* **Cloud & DevOps:** AWS, Git, GitHub Actions
 
+## Current Focus
 
-## 😄 Pronoms : elle/lui  
-## ⚡ Fun fact : J’ai deux grands chats noir et blanche qui m’accompagnent pendant mes sessions de code nocturnes 😺✨
+* Building cloud-native AI applications
+* Developing NLP solutions for Arabic and Moroccan dialects
+* Creating data-driven solutions for education, energy, and business
+* Strengthening my skills in AWS architecture and DevOps
 
----
+## Contact
 
-<!---
-chamai1/chamai1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* [LinkedIn](https://www.linkedin.com/in/chaima-menouar-93554524a/)
+* [Email](mailto:chaimaamnouar1234@gmail.com)
